@@ -1,5 +1,18 @@
-# PizzaRP – Pizzeria Reference Project (Console)
-This is a template repository for student hands-on in the course Programming Foundations at FHNW, BSc BIT. 
-It contains a pre-configured codespace for programming in Python.
+# Lottery Generator
 
-Enjoy!
+
+
+
+## Scenario
+
+## User Stories (US)
+### US1: Random Numbers
+As a User I want random generated number in order to maximize my chances of winning. 
+
+
+#### To Do: 
+1) item 1 
+2) item 2
+3) item 3
+
+

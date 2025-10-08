@@ -1,7 +1,7 @@
 # Lottery Generator
 
-
-
+## Problem
+Describe the Problem!
 
 ## Scenario
 
